@@ -29,7 +29,7 @@ graph TD
 
 ```bash
 # 1. Cloner le dépôt
-git clone https://github.com/votre-utilisateur/kmeans-supermarche.git && cd kmeans-supermarche
+git clone https://github.com/Kartiqus/Kmeans-Expo.git && cd Kmeans-Expo
 
 # 2. Installer les dépendances
 pip install -r requirements.txt
@@ -106,5 +106,5 @@ data = data.dropna()  # ou .fillna(value)
 <div align="center" style="margin-top: 40px;">
   ✨ **Équipe Projet** ✨<br>
   [Mariatou Maïga] | [Sidiki Pléa] | [Ayouba Morba]<br>
-  [![License MIT](https://img.shields.io/badge/Licence-MIT-green)](LICENSE)
+ 
 </div>
